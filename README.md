@@ -1,4 +1,4 @@
-# dmitri-angular-jasmine-karma
+# angular-jasmine-karma-typescript
 
 
 ## Development server
